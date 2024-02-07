@@ -1,4 +1,4 @@
-# AppCursoAndroid
+# Curso Android
 
 Este é um aplicativo Android desenvolvido em Kotlin para calcular um valor com base em distância, preço e autonomia.
 
@@ -35,10 +35,9 @@ Adicione algumas capturas de tela do aplicativo para fornecer uma visualização
 
 **Telas**
 
-![Imagem 1](./.github/imagem1.png)
-![Imagem 2](./.github/imagem2.png)
-![Imagem 3](./.github/imagem3.png)
+<img src="./.github/imagem1.png" width="100px">
+<img src="./.github/imagem2.png" width="100px">
+<img src="./.github/imagem3.png" width="100px">
 
 ---
 **Desenvolvido por DrianoDev**
-```
