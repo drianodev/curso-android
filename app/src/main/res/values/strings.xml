@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">App Curso Android</string>
+    <string name="textCabecalho">Aplicativo para calcular o consumo de viagens</string>
+    <string name="editDistance">Distância</string>
+    <string name="textTotalKm">Total em Quilômetros</string>
+    <string name="editPrice">Preço</string>
+    <string name="textPrice">Preço por Litro</string>
+    <string name="editAutonomo">Autonomia</string>
+    <string name="textAutonomo">Quilômetros por Litro</string>
+    <string name="textResultado">Seu gasto total será de:</string>
+    <string name="labelResultado">R$ 0</string>
+    <string name="buttonCalculate">Calcular</string>
+    <string name="textValidPrenchimento">Preencha todos os campos</string>
+    <string name="textValidDivisao">Não existe divisão por zero</string>
 </resources>
