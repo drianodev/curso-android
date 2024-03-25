@@ -29,15 +29,5 @@ Certifique-se de ter o Android Studio instalado em sua máquina antes de executa
 3. **Visualização Clara**
     - Observe o resultado da viagem em uma visualização clara e legível.
 
-## Capturas de Tela
-
-Adicione algumas capturas de tela do aplicativo para fornecer uma visualização rápida das principais funcionalidades.
-
-**Telas**
-
-<img src="./.github/imagem1.png" width="100px">
-<img src="./.github/imagem2.png" width="100px">
-<img src="./.github/imagem3.png" width="100px">
-
 ---
 **Desenvolvido por DrianoDev**
